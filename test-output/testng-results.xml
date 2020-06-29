@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-02T06:06:13Z" name="Default suite" finished-at="2020-05-02T06:07:18Z" duration-ms="64755">
+    <groups>
+    </groups>
+    <test started-at="2020-05-02T06:06:13Z" name="Default test" finished-at="2020-05-02T06:07:18Z" duration-ms="64755">
+      <class name="dataprovider.PassingDataFromExcel">
+        <test-method is-config="true" signature="setup()[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:06:13Z" name="setup" finished-at="2020-05-02T06:06:26Z" duration-ms="13404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="foreignKeyAdaptor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:06:28Z" name="foreignKeyAdaptor" data-provider="foreignkey" finished-at="2020-05-02T06:06:34Z" duration-ms="6237" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10100.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[venkat]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Margaret]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.45]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Priyanka]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignKeyAdaptor -->
+        <test-method signature="foreignKeyAdaptor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:06:34Z" name="foreignKeyAdaptor" data-provider="foreignkey" finished-at="2020-05-02T06:06:40Z" duration-ms="5682" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10101.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[priya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Laura]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[132.12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Venkadeshkumar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[USA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignKeyAdaptor -->
+        <test-method signature="foreignKeyAdaptor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:06:40Z" name="foreignKeyAdaptor" data-provider="foreignkey" finished-at="2020-05-02T06:06:45Z" duration-ms="5430" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10103.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gau]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Janet]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sing]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Poland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignKeyAdaptor -->
+        <test-method signature="foreignKeyAdaptor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:06:45Z" name="foreignKeyAdaptor" data-provider="foreignkey" finished-at="2020-05-02T06:06:50Z" duration-ms="5460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10102.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nevi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Anne]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12.342]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[curd]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sweden]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignKeyAdaptor -->
+        <test-method signature="foreignKeyAdaptor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:06:50Z" name="foreignKeyAdaptor" data-provider="foreignkey" finished-at="2020-05-02T06:06:56Z" duration-ms="5613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10107.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rama]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Andrew]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[13.23]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[aunt]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Spain]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignKeyAdaptor -->
+        <test-method signature="foreignKeyAdaptor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:06:56Z" name="foreignKeyAdaptor" data-provider="foreignkey" finished-at="2020-05-02T06:07:02Z" duration-ms="5650" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10106.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gany]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Michael]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[421.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[fri]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Norway]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignKeyAdaptor -->
+        <test-method signature="foreignKeyAdaptor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:07:02Z" name="foreignKeyAdaptor" data-provider="foreignkey" finished-at="2020-05-02T06:07:07Z" duration-ms="5471" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10105.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[boss]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nancy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[344.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[end]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Italy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignKeyAdaptor -->
+        <test-method signature="foreignKeyAdaptor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:07:07Z" name="foreignKeyAdaptor" data-provider="foreignkey" finished-at="2020-05-02T06:07:12Z" duration-ms="5294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10109.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[yogs]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Robert]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[42.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[panda]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Brazil]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignKeyAdaptor -->
+        <test-method signature="foreignKeyAdaptor(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataprovider.PassingDataFromExcel@54e1c68b]" started-at="2020-05-02T06:07:12Z" name="foreignKeyAdaptor" data-provider="foreignkey" finished-at="2020-05-02T06:07:18Z" duration-ms="5330" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10104.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[karthick]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Steven]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[thambi]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Austria]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- foreignKeyAdaptor -->
+      </class> <!-- dataprovider.PassingDataFromExcel -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
